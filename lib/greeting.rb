@@ -1,4 +1,4 @@
-# Use this space to code along with the readme
+#greeting
 def greeting
     puts "Hello World"
 end
